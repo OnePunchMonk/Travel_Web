@@ -6,12 +6,6 @@
 •	This website also helps other travellers who wish to work with us.
 •	This website is designed using HTML ,CSS , JAVASCRIPT and PHP.
 
-FEATURES:
-
-•	Hover effect.
-•	Various Styling Fonts.
-•	Client side data validation. 
-•	Otp validation using cookies.
-•	Mail feature for contact forms .
+F
 
 
